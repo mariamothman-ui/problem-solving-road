@@ -1,4 +1,5 @@
 #include <iostream>
+// in climits library the biggest number is INT_MAX ,the smallest number is is INT_MIN 
 #include <climits>
 using namespace std ;
 int main()
